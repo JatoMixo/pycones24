@@ -442,6 +442,10 @@ msgstr "versión en español do Contributor Covenant 2.0"
 msgid "código de conducta de DjangoCon Europe 2020"
 msgstr "código de conduta de DjangoCon Europe 2020"
 
+#: (dynamic)
+msgid "Entradas"
+msgstr ""
+
 #: templates/code_conduct.html:171
 msgid ""
 "En el foro de Discourse puedes denunciar publicaciones individuales o "

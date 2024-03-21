@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pycones 24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-21 20:20+CET\n"
+"POT-Creation-Date: 2024-03-21 21:29+CET\n"
 "PO-Revision-Date: 2024-03-14 01:10+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -11,6 +11,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.4.2\n"
+
+#: (dynamic)
+msgid "Entradas"
+msgstr ""
 
 #: https://2024.es.pycon.org/ (content/contents+es.lr:page.dates_event)
 msgid "4, 5 y 6 de octubre"
@@ -441,10 +445,6 @@ msgstr "versión en español do Contributor Covenant 2.0"
 #: (dynamic)
 msgid "código de conducta de DjangoCon Europe 2020"
 msgstr "código de conduta de DjangoCon Europe 2020"
-
-#: (dynamic)
-msgid "Entradas"
-msgstr ""
 
 #: templates/code_conduct.html:171
 msgid ""
